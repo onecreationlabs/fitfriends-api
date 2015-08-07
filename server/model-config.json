@@ -31,5 +31,11 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Activitypost": {
+    "dataSource": "heroku-db",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }

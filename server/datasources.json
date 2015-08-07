@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "heroku-db": {
+    "host": "us-cdbr-iron-east-02.cleardb.net",
+    "port": 3306,
+    "url": "mysql://be11e7a6ca4672:eac261bc@us-cdbr-iron-east-02.cleardb.net/heroku_00ab5fc010eeb42?reconnect=true",
+    "database": "heroku_00ab5fc010eeb42",
+    "password": "eac261bc",
+    "name": "heroku-db",
+    "user": "be11e7a6ca4672",
+    "connector": "mysql"
   }
 }
