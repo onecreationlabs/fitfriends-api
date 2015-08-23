@@ -74,6 +74,9 @@
         "nullable": "Y"
       },
       "_selectable": true
+    },
+    "locationname": {
+      "type": "string"
     }
   },
   "validations": [],

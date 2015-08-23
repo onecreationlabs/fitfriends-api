@@ -12,5 +12,14 @@
     "name": "heroku-db",
     "user": "be11e7a6ca4672",
     "connector": "mysql"
+  },
+  "onecreation": {
+    "host": "onecreationdb.cupxjgqjtmfi.us-east-1.rds.amazonaws.com",
+    "port": 3306,
+    "database": "onecreationdb",
+    "password": "onecreation",
+    "name": "onecreation",
+    "user": "dbuser",
+    "connector": "mysql"
   }
 }
