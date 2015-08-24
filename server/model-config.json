@@ -33,7 +33,7 @@
     "public": false
   },
   "Activitypost": {
-    "dataSource": "onecreation",
+    "dataSource": "heroku-db",
     "public": true,
     "$promise": {},
     "$resolved": true
