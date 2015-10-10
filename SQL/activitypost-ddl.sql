@@ -1,7 +1,0 @@
-CREATE TABLE `onecreationdb`.`activitypost` (
-  `id` INT NOT NULL AUTO_INCREMENT COMMENT '',
-  `activityname` VARCHAR(45) NULL DEFAULT NULL COMMENT '',
-  `location` POINT NULL DEFAULT NULL COMMENT '',
-  `locationname` VARCHAR(45) NULL DEFAULT NULL COMMENT '',
-  `dateposted` DATETIME NULL DEFAULT NULL COMMENT '',
-  PRIMARY KEY (`id`)  COMMENT '');
