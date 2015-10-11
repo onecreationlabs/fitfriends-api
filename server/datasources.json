@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "ds051943.mongolab.com",
+    "port": 51943,
+    "url": "",
+    "database": "fitfriends-db",
+    "password": "chang3m3",
+    "name": "mongodb",
+    "connector": "mongodb",
+    "user": "fitfriends-api"
+  }
+}
