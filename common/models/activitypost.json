@@ -14,6 +14,9 @@
     },
     "activityname": {
       "type": "string"
+    },
+    "activitylocationname": {
+      "type": "string"
     }
   },
   "validations": [],
