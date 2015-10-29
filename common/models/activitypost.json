@@ -7,11 +7,6 @@
     "validateUpsert": true
   },
   "properties": {
-    "id": {
-      "type": "number",
-      "id": true,
-      "required": true
-    },
     "activityname": {
       "type": "string"
     },
